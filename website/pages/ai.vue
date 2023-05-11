@@ -6,15 +6,6 @@
 import Vue from 'vue'
 
 export default Vue.extend({
-  name: 'Home'
+  name: 'Ai'
 })
 </script>
-
-<style lang="scss">
-
-  body{
-    width: 100%;
-    height: 100%;
-  }
-
-</style>
