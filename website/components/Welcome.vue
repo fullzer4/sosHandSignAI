@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="flex bg-emerald-500 w-full h-8/12"
-  >
+  <div>
 
   </div>
 </template>
@@ -11,3 +9,8 @@ export default {
   name: 'WelcomeC',
 }
 </script>
+
+<style lang="scss">
+
+</style>
+
